@@ -1,0 +1,19 @@
+{
+  "name": "khast-documentation",
+  "version": "1.0.0",
+  "description": "Documentation API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CGIDevTeam/KhastAPI-doc.git"
+  },
+  "author": "Julien JUGE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CGIDevTeam/KhastAPI-doc/issues"
+  },
+  "homepage": "https://github.com/CGIDevTeam/KhastAPI-doc#readme"
+}
